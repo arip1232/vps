@@ -1,0 +1,1 @@
+<?php/**This is Config File* this config for single account* this config work for all bot*/$auth_token='7331ab50-68f3-49e4-bb71-5a7cf8aad4e8';?>
